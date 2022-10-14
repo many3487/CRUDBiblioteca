@@ -11,7 +11,7 @@ con.connect(
         if(!err){
             console.log("conexion establecida");
         }else{
-            console.los("error en conexion" + err);
+            console.log("error en conexion" + err);
         }
     }
 );
